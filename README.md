@@ -1,6 +1,6 @@
 Sistema Tunomático - Modelado Arquitectónico Profesional
 
-Nombre: Edison Prado
+Nombre: Edison Prado.
 
 📌 Descripción General
 
