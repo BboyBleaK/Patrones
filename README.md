@@ -74,8 +74,8 @@ Ejemplo: Mismo mensaje se envía por SMS o email sin modificar lógica.
    
    ![Descripción de la imagen](imagenes/tecnologiasclave.png)
    
-4.	Patrones en Infraestructura: Singleton: Instancia única de TurneroCore en el servidor de aplicaciones. Prototype: Servicio de plantillas en BD con clonación vía Redis Cache. Adapter: Microservicio de notificaciones con conectores plugables.
-5.	Conectividad: Frontend: HTTP/2 + JSON API, Backend: AMQP para mensajería interna y BD: JDBC con pool de conexiones (HikariCP).
+3.	Patrones en Infraestructura: Singleton: Instancia única de TurneroCore en el servidor de aplicaciones. Prototype: Servicio de plantillas en BD con clonación vía Redis Cache. Adapter: Microservicio de notificaciones con conectores plugables.
+4.	Conectividad: Frontend: HTTP/2 + JSON API, Backend: AMQP para mensajería interna y BD: JDBC con pool de conexiones (HikariCP).
 
 💬Reflexiones Finales
 
